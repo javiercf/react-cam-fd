@@ -1,0 +1,52 @@
+{
+  "_from": "git://github.com/pfeiffer/react-native-camera.git#feature/face_detection_android",
+  "_id": "react-native-camera@0.3.8",
+  "_inBundle": false,
+  "_integrity": "sha1-O/iiDz/dw2ztnGYRBX7exViOc8k=",
+  "_location": "/react-native-camera",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git://github.com/pfeiffer/react-native-camera.git#feature/face_detection_android",
+    "rawSpec": "git://github.com/pfeiffer/react-native-camera.git#feature/face_detection_android",
+    "saveSpec": "git://github.com/pfeiffer/react-native-camera.git#feature/face_detection_android",
+    "fetchSpec": "git://github.com/pfeiffer/react-native-camera.git",
+    "gitCommittish": "feature/face_detection_android"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git://github.com/pfeiffer/react-native-camera.git#4b5b0570643ab1799b388e760be1493ae5e9c89b",
+  "_spec": "git://github.com/pfeiffer/react-native-camera.git#feature/face_detection_android",
+  "_where": "/Users/jcubides/code/ARpoc",
+  "author": {
+    "name": "Lochlan Wansbrough",
+    "email": "lochie@live.com",
+    "url": "http://lwansbrough.com"
+  },
+  "bugs": {
+    "url": "https://github.com/lwansbrough/react-native-camera/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A Camera component for React Native. Also reads barcodes.",
+  "homepage": "https://github.com/lwansbrough/react-native-camera",
+  "keywords": [
+    "react-native",
+    "react",
+    "native",
+    "camera",
+    "qr",
+    "code",
+    "barcode"
+  ],
+  "license": "MIT",
+  "name": "react-native-camera",
+  "nativePackage": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwansbrough/react-native-camera.git"
+  },
+  "version": "0.3.8"
+}
